@@ -1,0 +1,14 @@
+# Adopt-a-pet Assignment
+
+Adopt-a-pet tasks: (do 3 in total):
+Book an apppointment (required!)
+to make is simple, simply print the hours of operation and have the user select a Day of the week - write that into the User class
+you will need to add that property to the User class
+fix/improve all PRINT statements! (with color as well, research)
+add a validation method for the Book an appointment method/option/feature
+complete the Form class:
+add a Form with 3 fields to the Form class (applicantName, address, phone number)
+add a fillForm method to the Form class
+add a printForm method to the Main driver class
+make sure you can goBack to the main menu from the book an appointment option
+please add a readme in the Repo detailing which tasks you completed!
